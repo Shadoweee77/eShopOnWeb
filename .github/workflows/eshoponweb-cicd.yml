@@ -10,9 +10,9 @@ permissions:
   contents: read
 
 env:
-  RESOURCE-GROUP: rg-eshoponweb-eastus
+  RESOURCE-GROUP: rg-eshoponweb-westeurope
   LOCATION: belgiumcentral
-  WEBAPP-NAME: devops-webapp-eastus-3034628941
+  WEBAPP-NAME: devops-webapp-westeurope-1350125432
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6b810136-7835-4e71-a84c-3227d492063f
 
